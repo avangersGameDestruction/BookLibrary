@@ -6,6 +6,7 @@ using namespace std;
 
 class inventory
 {
+public:
 	// vector array for Books | vector array للكتب
 	vector<Books> b;
 

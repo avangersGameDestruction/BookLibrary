@@ -18,6 +18,5 @@ public:
 
 	// functions for finding book by title | وظائف للعثور على الكتاب بالعنوان
 	Books BookTitleFinder(string t);
-
 };
 

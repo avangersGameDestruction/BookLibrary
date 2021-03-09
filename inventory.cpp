@@ -9,3 +9,6 @@ void inventory::RemoveBooks(Books book) {
 
 void inventory::CheckOutBooks(Books book) {
 }
+
+void inventory::CheckInBooks(Books book) {
+}

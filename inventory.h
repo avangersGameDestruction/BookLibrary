@@ -13,6 +13,7 @@ class inventory
 	void AddBook(Books book);
 	void RemoveBooks(Books book);
 	void CheckOutBooks(Books book);
+	void CheckInBooks(Books book);
 
 	// functions for finding book by title | وظائف للعثور على الكتاب بالعنوان
 	Books BookTitleFinder(string t);
